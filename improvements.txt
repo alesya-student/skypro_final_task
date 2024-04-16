@@ -29,7 +29,7 @@
 
 Файл style.css
 1. 2. Передвинут блок с кнопкамив левве
-внесены изменения в код (изменено значение margin-left с 32 на 10)
+внесены изменения в код (изменено значение margin-left с 32 на 20)
 @media screen and (min-width: 1001px) {
 	.card {
-		margin-left: 10%;
+		margin-left: 20%;
